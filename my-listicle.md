@@ -2,7 +2,7 @@
 
 ## Top 5
 - [**Celeste**](https://www.celestegame.com/)
-![Celeste](Celeste_box_art_full.png) {width=100 height=100}
+![Celeste](Celeste_box_art_full.png){width=100 height=100}
 - [**Hollow Knight: Silksong**](https://hollowknightsilksong.com/)
 ![Silksong](640px-Silksong_cover.jpg)
 - [**The Legend of Zelda: Breath of the Wild**](https://www.nintendo.com/us/store/products/the-legend-of-zelda-breath-of-the-wild-nintendo-switch-2-edition-switch-2/)
